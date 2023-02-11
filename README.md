@@ -1,3 +1,4 @@
 # Sub-in-Tkinter
 زینب رجب زاده
-پروژه ی میانرتم
+Zeynab Rajabzadeh
+
